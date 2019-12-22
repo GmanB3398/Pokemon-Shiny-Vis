@@ -23,7 +23,7 @@ library(visNetwork)
 # w= content(s)
 # w$sprites$front_default
 # char=GET("https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png")
-#   w2=content(char ,as ="raw", type = "image/")
+# w2=content(char ,as ="raw", type = "image/")
 # readPNG(w2)
 # charimg<- readPNG(getURLcontent("https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png"))
 
